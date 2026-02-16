@@ -1,7 +1,7 @@
 # The Potato Words Repository [^1]
 **Auderox's bad term database, all in plain text files for ease-of-use.**
 
-– 🥔 –
+~ 🥔 ~
 
 I originally created this list for my own personal use. It was for my Discord bot automod and Youtube blocked words list. 
 I figured some people would find this helpful for their own word blacklists — particularly those in content creation and community management. 
@@ -29,7 +29,7 @@ However, it *should* work for some bots that can filter specific terms using ast
 
 ###### *Licensed under MIT.*
 
-Thank you for reading!
+Thank you for reading! </br>
 
 [^1]: Formerly known as Curly-Octo-Potato. It was a randomly generated name that stuck because I found it silly.
 
