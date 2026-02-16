@@ -1,7 +1,7 @@
 # The Potato Words Repository [^1]
-**Auderox's bad word database, all in plain text files for ease-of-use.**
+**Auderox's bad term database, all in plain text files for ease-of-use.**
 
-— 🥔 —
+– 🥔 –
 
 I originally created this list for my own personal use. It was for my Discord bot automod and Youtube blocked words list. 
 I figured some people would find this helpful for their own word blacklists — particularly those in content creation and community management. 
@@ -9,7 +9,16 @@ I figured some people would find this helpful for their own word blacklists — 
 Contributions are welcome; feel free to pull requests and talk in discussion. <br/>
 I don't really use Github, nor do I understand how it fully works, so... please be patient with me. ;~;
 
-###### *Licensed under MIT.*
+## Instructions
+
+1. Check if your AutoMod separates terms by comma or a new line. 
+2. Choose the list of terms you want to add to your AutoMod — words, links, or symbols. 
+3. Copy and paste the terms into your AutoMod.
+4. Tweak as necessary. 
+
+<ins>**Domain List Notice:**</ins> </br>
+As of right now, the **domain lists** are formatted ***specifically*** for Discord AutoMod. </br>
+However, it *should* work for some bots that can filter specific terms using asterisks. 
 
 ## Terms of Use
 
@@ -17,6 +26,8 @@ I don't really use Github, nor do I understand how it fully works, so... please 
 2. Please respect my time. I maintain this repository as a hobby, not as a job.
 3. Please credit me if you use this repository in your projects.
 4. Contributors are required to be **18+** for safety and legal reasons.
+
+###### *Licensed under MIT.*
 
 Thank you for reading!
 
